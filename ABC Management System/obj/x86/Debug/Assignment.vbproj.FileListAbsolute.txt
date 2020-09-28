@@ -1,0 +1,54 @@
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.Tracker.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.AddJob.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.Staff.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.UserRegisteration.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\Assignment.vbproj.GenerateResource.cache
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\Assignment.vbprojAssemblyReference.cache
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.Resource1.resources
+C:\Users\benig\Desktop\vb assignment\B\bin\Debug\ABC System.exe.config
+C:\Users\benig\Desktop\vb assignment\B\bin\Debug\ABC System.exe
+C:\Users\benig\Desktop\vb assignment\B\bin\Debug\ABC System.pdb
+C:\Users\benig\Desktop\vb assignment\B\bin\Debug\ABC System.xml
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\ABC System.exe
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\ABC System.xml
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\ABC System.pdb
+C:\Users\benig\Desktop\vb assignment\ABC Management System\bin\Debug\ABC System.exe.config
+C:\Users\benig\Desktop\vb assignment\ABC Management System\bin\Debug\ABC System.exe
+C:\Users\benig\Desktop\vb assignment\ABC Management System\bin\Debug\ABC System.pdb
+C:\Users\benig\Desktop\vb assignment\ABC Management System\bin\Debug\ABC System.xml
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\Assignment.vbprojAssemblyReference.cache
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.Resource1.resources
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.Tracker.resources
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.AddJob.resources
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.Staff.resources
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.UserRegisteration.resources
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\Assignment.vbproj.GenerateResource.cache
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\ABC System.exe
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\ABC System.xml
+C:\Users\benig\Desktop\vb assignment\ABC Management System\obj\x86\Debug\ABC System.pdb
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\bin\Debug\ABC System.exe.config
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\bin\Debug\ABC System.exe
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\bin\Debug\ABC System.pdb
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\bin\Debug\ABC System.xml
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\Assignment.vbprojAssemblyReference.cache
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.Resource1.resources
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.Tracker.resources
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.AddJob.resources
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.Staff.resources
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\WindowsApplication1.UserRegisteration.resources
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\Assignment.vbproj.GenerateResource.cache
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\ABC System.exe
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\ABC System.xml
+C:\Users\benig\Desktop\UCSI\May 2018 Semester\VB\vb assignment\ABC Management System\obj\x86\Debug\ABC System.pdb

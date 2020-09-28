@@ -1,0 +1,52 @@
+C:\Users\user\Desktop\B\bin\Debug\B.exe
+C:\Users\user\Desktop\B\bin\Debug\B.pdb
+C:\Users\user\Desktop\B\bin\Debug\B.xml
+C:\Users\user\Desktop\B\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\B\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\B\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\B\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\B\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\B\obj\x86\Debug\B.exe
+C:\Users\user\Desktop\B\obj\x86\Debug\B.xml
+C:\Users\user\Desktop\B\obj\x86\Debug\B.pdb
+C:\Users\user\Desktop\B\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Benig\B\obj\x86\Debug\B.exe
+D:\Benig\B\obj\x86\Debug\B.xml
+D:\Benig\B\obj\x86\Debug\B.pdb
+D:\Benig\B\bin\Debug\B.exe
+D:\Benig\B\bin\Debug\B.pdb
+D:\Benig\B\bin\Debug\B.xml
+D:\Benig\B\obj\x86\Debug\B.vbprojResolveAssemblyReference.cache
+D:\Benig\B\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Benig\B\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Benig\B\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Benig\B\obj\x86\Debug\B.vbproj.GenerateResource.Cache
+F:\Benig\B\bin\Debug\B.exe
+F:\Benig\B\bin\Debug\B.pdb
+F:\Benig\B\bin\Debug\B.xml
+F:\Benig\B\obj\x86\Debug\B.vbprojAssemblyReference.cache
+F:\Benig\B\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Benig\B\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\Benig\B\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Benig\B\obj\x86\Debug\B.vbproj.GenerateResource.cache
+F:\Benig\B\obj\x86\Debug\B.vbproj.CoreCompileInputs.cache
+F:\Benig\B\obj\x86\Debug\B.exe
+F:\Benig\B\obj\x86\Debug\B.xml
+F:\Benig\B\obj\x86\Debug\B.pdb
+C:\Users\benig\Desktop\vb assignment\B\bin\Debug\B.exe
+C:\Users\benig\Desktop\vb assignment\B\bin\Debug\B.pdb
+C:\Users\benig\Desktop\vb assignment\B\bin\Debug\B.xml
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\B.vbprojAssemblyReference.cache
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\B.vbproj.GenerateResource.cache
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\B.vbproj.CoreCompileInputs.cache
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\B.exe
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\B.xml
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\B.pdb
+C:\Users\benig\Desktop\vb assignment\B\bin\Debug\B.exe.config
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.UserRegisteration.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.MainMenu.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.Staff.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.Tracker.resources
+C:\Users\benig\Desktop\vb assignment\B\obj\x86\Debug\WindowsApplication1.AddJob.resources
