@@ -7,4 +7,7 @@ Using Microsoft Access as database to connect application and to make real-time 
 # What I Learned 
 
 How to connect to MS Access database 
-Using
+
+Error handling
+
+Used multiple control elements to develop a GUI 
